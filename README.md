@@ -16,7 +16,6 @@
   <img src="https://skillicons.dev/icons?i=linux" /> 
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=gitlab" /> 
   <img src="https://skillicons.dev/icons?i=kubernetes" />  
 </div>
 <hr>
