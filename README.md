@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Henrique Nery
-<div>
-   <a href="https://github.com/henriquenery01">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=henriquenery1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+
+## 📊GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=henriquenery1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=henriquenery1&theme=dark&hide_border=true)
 <div style="display: inline_block"><br>
    <hr>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
