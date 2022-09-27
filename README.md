@@ -17,9 +17,18 @@
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=kubernetes" />  
+  <img
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+    min-width="200px"
+    max-width="200px"
+    width="300px"
+    align="right"
+    alt="Computador iuriCode"
+  />
 </div>
 <hr>
 <br>
+
 <div> 
   <a href="https://www.linkedin.com/in/henrique-nery-600b49171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
