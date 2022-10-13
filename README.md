@@ -3,21 +3,9 @@
 ## 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=henriquenery1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henriquenery1&theme=dark&hide_border=true)
-<div style="display: inline_block"><br>
-   <hr>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <br><hr>
-  <img src="https://skillicons.dev/icons?i=linux" /> 
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" />  
-  <img
+
+<div style="display: inline_block"><br><hr>
+    <img
     src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
     min-width="200px"
     max-width="200px"
@@ -25,7 +13,21 @@
     align="right"
     alt="Computador iuriCode"
   />
+  
+<p align="rigth">
+  <img src="https://skillicons.dev/icons?i=bash,bots,css,docker,gcp,git,github,gitlab,go,html" />
+</p> 
+
+<p align="rigth">
+    <img src="https://skillicons.dev/icons?i=ai,js,jest,kubernetes,linux,mysql,nestjs,stackoverflow,ts,vscode" />
+</p>
+
+<p align="rigth">
+    <img src="https://skillicons.dev/icons?i=nodejs,prisma,py,postgres,react,powershell" />
+</p> 
+
 </div>
+
 <hr>
 <br>
 
