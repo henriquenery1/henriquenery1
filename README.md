@@ -5,15 +5,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henriquenery1&theme=dark&hide_border=true)
 
 <div style="display: inline_block"><br><hr>
-    <img
-    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-    min-width="200px"
-    max-width="200px"
-    width="300px"
-    align="right"
-    alt="Computador iuriCode"
-  />
-  
 <p align="rigth">
   <img src="https://skillicons.dev/icons?i=bash,bots,css,docker,gcp,git,github,gitlab,go,html" />
 </p> 
@@ -25,6 +16,14 @@
 <p align="rigth">
     <img src="https://skillicons.dev/icons?i=nodejs,prisma,py,postgres,react,powershell" />
 </p> 
+<img
+src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+min-width="200px"
+max-width="200px"
+width="300px"
+align="right"
+alt="Computador iuriCode"
+/>
 
 </div>
 
