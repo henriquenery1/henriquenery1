@@ -1,18 +1,20 @@
-# 👋 Hi, I’m Henrique Nery
+# 👋 Hi, I'm Henrique Nery
 
-## 📊GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=henriquenery1&theme=dark&hide_border=true)
+Welcome to my profile!
 
-<div style="display: inline_block"><br><hr>
-<p align="rigth">
+## 📊 GitHub Stats:
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquenery1&theme=dark&hide_border=true)
+
+## 🚀 Technologies and tools:
+<p align="left">
   <img src="https://skillicons.dev/icons?i=bash,bots,css,docker,gcp,git,github,gitlab,go,html" />
 </p> 
 
-<p align="rigth">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=ai,js,jest,kubernetes,linux,mysql,nestjs,stackoverflow,ts,vscode" />
 </p>
 
-<p align="rigth">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=nodejs,prisma,py,postgres,react,powershell" />
 </p> 
 <img
@@ -24,11 +26,9 @@ align="right"
 alt="Computador iuriCode"
 />
 
-</div>
-
 <hr>
 <br>
 
-<div> 
-  <a href="https://www.linkedin.com/in/henrique-nery-600b49171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<a href="https://www.linkedin.com/in/henrique-nery-600b49171/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
