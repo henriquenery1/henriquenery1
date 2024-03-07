@@ -7,15 +7,15 @@ Welcome to my profile!
 
 ## 🚀 Technologies and tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,bots,css,docker,gcp,git,github,gitlab,go,html" />
+  <img src="https://skillicons.dev/icons?i=bash,py,js,ts,nodejs,go,html,css,react,bots" />
 </p> 
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=ai,js,jest,kubernetes,linux,mysql,nestjs,stackoverflow,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,powershell,docker,gcp,gitlab,ai,kubernetes" />
 </p>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,prisma,py,postgres,react,powershell" />
+    <img src="https://skillicons.dev/icons?i=jest,postgres,mysql,sqlite,django,nestjs,prisma,nextjs,stackoverflow,rabbitmq" />
 </p> 
 <img
 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
