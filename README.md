@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Henrique Nery
+# 👋 Hi, I’m Henrique Nery
 
 Welcome to my profile!
 
