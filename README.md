@@ -7,7 +7,7 @@ Welcome to my profile!
 
 ## 🚀 Technologies and tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,py,js,ts,nodejs,go,html,css,react,bots" />
+  <img src="https://skillicons.dev/icons?i=py,bash,js,ts,nodejs,go,html,css,react,bots" />
 </p> 
 
 <p align="left">
