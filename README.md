@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=jest,postgres,mysql,sqlite,django,nestjs,prisma,nextjs,stackoverflow,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=jest,postgres,mysql,sqlite,django,nestjs,prisma,nextjs,fastapi,rabbitmq" />
 </p> 
 <img
 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
