@@ -1,6 +1,8 @@
 <h1 align="center"><b>Hi , I'm Henrique Nery </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Welcome to my profile!</h3>
+<h3>Welcome to my profile!</h3>
+
+<br>
 
 ## 📊 GitHub Stats:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquenery1&theme=dark&hide_border=true)
